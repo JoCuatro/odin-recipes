@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, we are going to build a basic recipe website. We will add a few links and practice some previously learned skills. By the end of this small project, we will have proved that we can clone new repos form Github to our local machine, create working webpages with links, and commit created content back to Github. 
